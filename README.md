@@ -52,3 +52,7 @@ Du Bois, John W., Wallace L. Chafe, Charles Meyers, Sandra A. Thompson, Nii Mart
 Newman, John and Georgie Columbus (2010). The International Corpus of English – Canada. Edmonton, Alberta: University of Alberta.
 
 Wible, David, Chin-Hwa Kuo, Meng-Chang Chen, Nai-Lung Tsao, and Tsung-Fu Hung (2006). A computational approach to the discovery and representation of lexical chunks. Paper presented at TALN 2006. Leuven, Belgium.
+
+
+
+This project is licensed under the terms of the MIT license.
